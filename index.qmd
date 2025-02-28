@@ -1,12 +1,12 @@
 ---
-title: "Welcome"
+title: "Welcome to the Ultimate Cyprus Events Guide!"
 ---
 
-This is a Quarto website.
+Welcome to VibeCY, your go-to guide for all the fun and exciting events happening across Cyprus! From concerts and festivals to family-friendly activities, we've got you covered. Find out what's going on in your city or plan a getaway with our hand-picked event listings!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+**Stay Updated**
 
-## Nemo enim ipsam
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+Make sure to bookmark VibeCY and check back regularly for the latest events in Cyprus. Whether you're into arts, sports, or nightlife, there’s always something exciting happening on this beautiful island!
+
+![](images/VibeCY.png)

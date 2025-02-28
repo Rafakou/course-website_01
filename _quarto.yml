@@ -4,24 +4,23 @@ project:
   execute-dir: project
   
 website:
-  title: "Course website 01"
+  title: "VibeCY"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: tab-one/tab-one-index.qmd
-        text: Tab title
-      - href: tab-presentation/presentation-index.qmd
-        text: Presentations        
+        text: Upcoming Events
       - href: tab-iframe/iframe-index.qmd
-        text: iFrame example
-    logo: images/logo_tepak.png
+        text: Questionnaire
+      - href: Tab2-iframe/iframe2-index.qmd
+        text: Results
+    logo: images/VibeCY.png
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - minty
+      - playful
     css: styles.css
     toc: true
-

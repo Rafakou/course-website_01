@@ -1,12 +1,140 @@
 ---
-title: "Add a title to your Tab index page"
+title: "See here What's coming up!"
 ---
 
-## Nemo enim ipsam
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+## 🌆 Nicosia
+Nicosia, the capital city of Cyprus, is a vibrant blend of history, culture, and modernity. Whether you're into arts, music, or food, Nicosia offers something for everyone. Check out these exciting upcoming events:
 
-## Add an image
+**Nicosia International Film Festival**
 
-![](/images/workflow.png)
+Date: March 1 - 5, 2025
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+Location: Nicosia City Center
+
+Enjoy a selection of global films at the renowned Nicosia International Film Festival. From independent films to international blockbusters, immerse yourself in cinematic masterpieces.
+
+**Nicosia Food & Wine Festival**
+
+Date: March 15 - 18, 2025
+
+Location: Eleftheria Square
+
+Indulge in the finest wines, local delicacies, and gourmet dishes at the Nicosia Food & Wine Festival. Taste the best of Cypriot cuisine and discover new flavors.
+
+**Live Music at The Lost + Found**
+
+Date: Every Friday, 8:00 PM
+
+Location: The Lost + Found, Nicosia
+
+Join the crowd at this trendy bar for weekly live music performances. From indie rock to acoustic vibes, this is the perfect spot for music lovers.
+
+## 🌊Limassol
+Known for its lively atmosphere, Limassol is the place to be if you're looking to dance the night away, soak in the sun, or enjoy vibrant festivals. Here are some of the top events coming up:
+
+**Limassol Carnival Parade**
+Date: March 2, 2025
+
+Location: Limassol Promenade
+
+Celebrate the biggest party of the year at the Limassol Carnival! Join the colorful parade, enjoy street performances, and let loose with locals and tourists alike.
+
+
+**Limassol Wine Festival**
+Date: April 10 - 13, 2025
+
+Location: Limassol Municipal Gardens
+
+Taste wines from local vineyards and international wine producers, paired with delicious Cypriot meze. Don’t miss this one-of-a-kind event celebrating the island’s rich winemaking tradition.
+
+**Beach Party at Guaba Beach Bar**
+Date: Every Saturday, 9:00 PM
+
+Location: Guaba Beach Bar
+
+Limassol’s legendary beach party venue hosts international DJs and a lively crowd. Head down for an unforgettable night of dancing, cocktails, and beach vibes.
+
+## 🌴 Larnaca
+Larnaca is famous for its beautiful beaches and laid-back vibe. If you're looking for a mix of relaxation and fun, Larnaca is the perfect destination. Here are the hottest events coming up:
+
+**Larnaca International Marathon**
+
+Date: March 7, 2025
+
+Location: Larnaca Seafront
+
+Lace-up your running shoes and join thousands of participants for the Larnaca International Marathon. Whether you're a runner or a supporter, it's a great way to experience the scenic beauty of Larnaca.
+
+**Full Moon Party at Finikoudes Beach**
+
+Date: March 25, 2025
+
+Location: Finikoudes Beach
+
+Dance under the stars at Larnaca’s Full Moon Beach Party. Expect an unforgettable night with live music, beach games, and refreshing drinks.
+
+**Art & Culture at Larnaca Municipal Gallery**
+Date: February 20 - March 10, 2025
+
+Location: Larnaca Municipal Gallery
+
+Explore local Cypriot art at the Larnaca Municipal Gallery. The exhibition features works from contemporary artists reflecting the island's culture and history.
+
+## 🏝 Paphos
+Paphos, a UNESCO World Heritage site, offers a perfect mix of ancient history, modern entertainment, and natural beauty. Check out the latest events happening here:
+
+**Paphos Aphrodite Festival**
+
+Date: April 25 - 27, 2025
+
+Location: Paphos Archaeological Park
+
+Celebrate the myth of Aphrodite with a stunning performance of classical music and opera under the stars. This annual festival brings world-class performances to one of Cyprus' most historic sites.
+
+**Paphos Beach Jazz Fest**
+
+Date: May 5 - 7, 2025
+
+Location: Coral Bay Beach
+
+Enjoy smooth jazz on the beach with live performances by local and international jazz artists. It’s a perfect event for music lovers and those who enjoy a laid-back beach atmosphere.
+
+**Sunset Yoga at Paphos Harbour**
+
+Date: Every Sunday, 6:30 PM
+
+Location: Paphos Harbour
+
+Unwind with a peaceful yoga session as the sun sets over the Mediterranean. Whether you're a seasoned yogi or a beginner, this class offers a relaxing way to end your weekend.
+
+## 🪩Ayia Napa
+
+If you're looking for the best nightlife, beach parties, and vibrant festivals, Ayia Napa is the place to be. Here's what's coming up:
+
+**Ayia Napa Summer Music Festival**
+
+Date: June 10 - 12, 2025
+
+Location: Ayia Napa Main Square
+
+Get ready for a huge summer celebration with top DJs, live music, and performances at the Ayia Napa Summer Music Festival. This is the ultimate event for party-goers!
+
+**Full Moon Beach Party at Nissi Bay**
+
+Date: March 9, 2025
+
+Location: Nissi Bay Beach
+
+Ayia Napa's most popular beach is the venue for this legendary full moon party. Dance barefoot on the sand, enjoy delicious cocktails, and make memories under the moonlight.
+
+**Ayia Napa Waterpark Fun Day**
+
+Date: March 5, 2025
+
+Location: WaterWorld Themed Waterpark
+
+Looking for family-friendly fun? Head to Ayia Napa’s WaterWorld for a day full of water slides, wave pools, and thrilling attractions for all ages.
+
+
+
+
